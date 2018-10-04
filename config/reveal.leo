@@ -38,12 +38,20 @@
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
-<v t="leo.20181004145022.1" a="E"><vh>第一週</vh>
+<v t="leo.20181004145022.1" a="E"><vh>W1</vh>
 <v t="leo.20181004145650.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004150922.1"><vh>大綱</vh></v>
 </v>
 <v t="leo.20181004150028.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004151003.1"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181004223113.1" a="E"><vh>W2</vh>
+<v t="leo.20181004223121.1" a="E"><vh>分支(向下</vh>
+<v t="leo.20181004223140.1"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181004224421.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181004224432.1"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -351,12 +359,40 @@ make.start()
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181004150922.1"># 第一週 
 
 * 每週記得要帶耳機 筆記本 隨身碟  
 
-* 登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
-<t tx="leo.20181004151003.1"></t>
+* 登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片
+
+* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
+
+</t>
+<t tx="leo.20181004151003.1">* w1 練習影片</t>
+<t tx="leo.20181004223113.1"></t>
+<t tx="leo.20181004223121.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181004223140.1"># 第二週
+
+* 學會管理作業倉儲
+* 利用 git checkout 內的 master 分支切換到 gh-pages
+* 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版. 
+* issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中</t>
+<t tx="leo.20181004224421.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181004224432.1">* w2 練習影片</t>
 </tnodes>
 </leo_file>
