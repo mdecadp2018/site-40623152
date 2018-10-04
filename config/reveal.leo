@@ -352,11 +352,11 @@ make.start()
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20181004150922.1">第一週 
+<t tx="leo.20181004150922.1"># 第一週 
 
-每週記得要帶耳機 筆記本 隨身碟  
+* 每週記得要帶耳機 筆記本 隨身碟  
 
-登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+* 登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
 <t tx="leo.20181004151003.1"></t>
 </tnodes>
 </leo_file>
