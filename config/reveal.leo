@@ -28,7 +28,7 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
 <v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
@@ -39,8 +39,12 @@
 </v>
 </v>
 <v t="leo.20181004145022.1" a="E"><vh>第一週</vh>
-<v t="leo.20181004145650.1"><vh>大綱</vh></v>
-<v t="leo.20181004150028.1"><vh>影片</vh></v>
+<v t="leo.20181004145650.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181004150922.1"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181004150028.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181004151003.1"><vh>影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -342,15 +346,17 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 
-第一週 
-
-每週記得要帶耳機 筆記本 隨身碟  
-
-登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+</t>
 <t tx="leo.20181004150028.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20181004150922.1">第一週 
+
+每週記得要帶耳機 筆記本 隨身碟  
+
+登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片、CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.</t>
+<t tx="leo.20181004151003.1"></t>
 </tnodes>
 </leo_file>
