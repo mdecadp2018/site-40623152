@@ -1,4 +1,1 @@
-# 40623152
-四設計2甲 46023152 潘季宏 電腦輔助設計實習課程分組倉儲
-
-http://mdecadp2018.github.io/site-40623152/
+# scrum-2.github.io
