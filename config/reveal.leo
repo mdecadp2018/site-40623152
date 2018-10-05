@@ -21,7 +21,7 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -140,12 +140,10 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
-
-### 虎科大機械設計工程系MDE
+<t tx="leo.20180827201621.10">### 虎科大機械設計工程系MDE
 
 &lt;small&gt;
-Created by [40623152]
+Created by 40623152 潘季宏
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -371,7 +369,9 @@ make.start()
 * CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
 
 </t>
-<t tx="leo.20181004151003.1">* w1 練習影片</t>
+<t tx="leo.20181004151003.1">* w1 練習影片
+
+</t>
 <t tx="leo.20181004223113.1"></t>
 <t tx="leo.20181004223121.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -385,7 +385,9 @@ make.start()
 * 學會管理作業倉儲
 * 利用 git checkout 內的 master 分支切換到 gh-pages
 * 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版. 
-* issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中</t>
+* issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
+
+</t>
 <t tx="leo.20181004224421.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -393,6 +395,8 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181004224432.1">* w2 練習影片</t>
+<t tx="leo.20181004224432.1">* w2 練習影片
+
+</t>
 </tnodes>
 </leo_file>
