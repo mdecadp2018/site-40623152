@@ -4,4 +4,5 @@
 http://mdecadp2018.github.io/site-40623152/
 
 blog  :  https://mdecadp2018.github.io/site-40623152/blog/index.html
+
 reveal:  https://mdecadp2018.github.io/site-40623152/reveal/index.html#/
