@@ -288,6 +288,12 @@ Created by 40623152 潘季宏
 </t>
 <t tx="leo.20181004224432.1">* w2 練習影片
 
+[Week 2 Homework-1]https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s
+[Week 2 Homework-2]https://www.youtube.com/watch?v=e5i9Hme6anU&amp;t=2s
+[Week 2 Homework-3]https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=181s
+[Week 2 Homework-4]https://www.youtube.com/watch?v=IlC2f40LPG0
+[Week 2 Homework-5]https://www.youtube.com/watch?v=bpHDvYoULqo
+
 </t>
 </tnodes>
 </leo_file>
