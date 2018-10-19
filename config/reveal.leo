@@ -24,7 +24,7 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181004145022.1" a="E"><vh>W1</vh>
+<v t="leo.20181004145022.1"><vh>W1</vh>
 <v t="leo.20181004145650.1"><vh>分支(向下)</vh>
 <v t="leo.20181004150922.1"><vh>大綱</vh></v>
 </v>
@@ -33,11 +33,19 @@
 </v>
 </v>
 <v t="leo.20181004223113.1" a="E"><vh>W2</vh>
-<v t="leo.20181004223121.1"><vh>分支(向下</vh>
+<v t="leo.20181004223121.1" a="E"><vh>分支(向下</vh>
 <v t="leo.20181004223140.1"><vh>大綱</vh></v>
 </v>
 <v t="leo.20181019101801.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181019101812.1"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181019110709.1" a="E"><vh>w3</vh>
+<v t="leo.20181019110712.1" a="E"><vh>分支(向下</vh>
+<v t="leo.20181019110749.1"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181019110735.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181019110752.1"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -299,5 +307,22 @@ Created by 40623152 潘季宏
 * [Week 2 Homework-5](https://www.youtube.com/watch?v=bpHDvYoULqo)
 
 </t>
+<t tx="leo.20181019110709.1"></t>
+<t tx="leo.20181019110712.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181019110735.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181019110749.1"></t>
+<t tx="leo.20181019110752.1"></t>
 </tnodes>
 </leo_file>

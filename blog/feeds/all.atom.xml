@@ -15,7 +15,7 @@
 &lt;p&gt;利用 git checkout 內的 master 分支切換到 gh-pages&lt;/p&gt;
 &lt;p&gt;以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版. &lt;/p&gt;
 &lt;p&gt;issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中&lt;/p&gt;
-&lt;p&gt;第二週練習影片:&lt;iframe  width="425" height="344" src="https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;第二週練習影片:&lt;script type="text/javascript" src="https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s"&gt;&lt;/script&gt;&lt;/p&gt;
 &lt;iframe src="https://www.youtube.com/watch?v=e5i9Hme6anU&amp;t=2s" width="640" height="492" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""&gt;&lt;/iframe&gt;
 
 &lt;iframe src="https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=181s" width="640" height="492" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""&gt;&lt;/iframe&gt;
