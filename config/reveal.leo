@@ -25,10 +25,10 @@
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20181004145022.1" a="E"><vh>W1</vh>
-<v t="leo.20181004145650.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181004145650.1"><vh>分支(向下)</vh>
 <v t="leo.20181004150922.1"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181004150028.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181004150028.1"><vh>分支(向下)</vh>
 <v t="leo.20181004151003.1"><vh>影片</vh></v>
 </v>
 </v>
@@ -36,8 +36,8 @@
 <v t="leo.20181004223121.1"><vh>分支(向下</vh>
 <v t="leo.20181004223140.1"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181004224421.1" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004224432.1"><vh>影片</vh></v>
+<v t="leo.20181019101801.1" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181019101812.1"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -279,20 +279,23 @@ Created by 40623152 潘季宏
 * issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
 
 </t>
-<t tx="leo.20181004224421.1">&lt;section data-markdown&gt;
+<t tx="leo.20181019101801.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20181004224432.1">* w2 練習影片
+<t tx="leo.20181019101812.1">* w2 練習影片
 
-[Week 2 Homework-1](https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s)
-[Week 2 Homework-2](https://www.youtube.com/watch?v=e5i9Hme6anU&amp;t=2s)
-[Week 2 Homework-3](https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=181s)
-[Week 2 Homework-4](https://www.youtube.com/watch?v=IlC2f40LPG0)
-[Week 2 Homework-5](https://www.youtube.com/watch?v=bpHDvYoULqo)
+* [Week 2 Homework-1](https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s)
+
+* [Week 2 Homework-2](https://www.youtube.com/watch?v=e5i9Hme6anU&amp;t=2s)
+
+* [Week 2 Homework-3](https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=181s)
+
+* [Week 2 Homework-4](https://www.youtube.com/watch?v=IlC2f40LPG0)
+
+* [Week 2 Homework-5](https://www.youtube.com/watch?v=bpHDvYoULqo)
 
 </t>
 </tnodes>
