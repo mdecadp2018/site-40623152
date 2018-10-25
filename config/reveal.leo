@@ -322,7 +322,11 @@ Created by 40623152 潘季宏
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181019110749.1"></t>
-<t tx="leo.20181019110752.1"></t>
+<t tx="leo.20181019110749.1">#第三週課程內容
+
+* Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。</t>
+<t tx="leo.20181019110752.1">* w3 練習影片
+
+[homework video](https://www.youtube.com/watch?v=N5ysDAhmSI0)</t>
 </tnodes>
 </leo_file>

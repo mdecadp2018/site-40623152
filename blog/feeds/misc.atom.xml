@@ -1,40 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系MDE 40623152 潘季宏 - Misc</title><link href="https://mdecadp2018.github.io/site-40623152/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623152/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623152/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌-w5</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623152/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html">&lt;p&gt;第五週&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第五週&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系MDE 40623152 潘季宏 - Misc</title><link href="https://mdecadp2018.github.io/site-40623152/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623152/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623152/blog/</id><updated>2018-10-26T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌-w7</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623152/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;hr&gt;</content><category term="2018Fall-w7"></category></entry><entry><title>2018 Fall 分組網誌-w6</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623152/blog/2018-Fall-Project-Blog-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;hr&gt;</content><category term="2018Fall-w6"></category></entry><entry><title>2018 Fall 分組網誌-w5</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623152/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;hr&gt;</content><category term="2018Fall-w5"></category></entry><entry><title>2018 Fall 分組網誌-w4</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623152/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;Onshape 課程使用說明&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape 課程使用說明&lt;/p&gt;
 
 
-&lt;hr&gt;</content><category term="2018Fall-w5"></category></entry><entry><title>2018 Fall 分組網誌-w4</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623152/blog/2018-Fall-Project-Blog-w4.html</id><summary type="html">&lt;p&gt;第四週&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第四週&lt;/p&gt;
-
-
-&lt;hr&gt;</content><category term="2018Fall-w4"></category></entry><entry><title>2018 Fall 分組網誌-w3</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623152/blog/2018-Fall-Project-Blog-w3.html</id><summary type="html">&lt;p&gt;Introguce Onshape &lt;/p&gt;
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;p&gt;Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上&lt;/p&gt;
+&lt;p&gt;解決Cmsimfly 的錯誤&lt;/p&gt;
+&lt;p&gt;維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容&lt;/p&gt;</content><category term="2018Fall-w4"></category></entry><entry><title>2018 Fall 分組網誌-w3</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623152/blog/2018-Fall-Project-Blog-w3.html</id><summary type="html">&lt;p&gt;Introguce Onshape &lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Introguce Onshape &lt;/p&gt;
 
 
 &lt;hr&gt;
-&lt;p&gt;課程內容 &lt;/p&gt;
+&lt;h2&gt;課程內容&lt;/h2&gt;
 &lt;p&gt;Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。&lt;/p&gt;
-&lt;iframe width="945" height="507" src="https://youtu.be/N5ysDAhmSI0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;作業影片:
+&lt;a href="https://www.youtube.com/watch?v=N5ysDAhmSI0"&gt;homework video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自我評分：80&lt;/p&gt;</content><category term="2018Fall-w3"></category></entry><entry><title>2018 Fall 分組網誌-w2</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623152/blog/2018-Fall-Project-Blog-w2.html</id><summary type="html">&lt;p&gt;第二週&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第二週&lt;/p&gt;
 
-&lt;p&gt;自我評分：80&lt;/p&gt;</content><category term="2018Fall-w3"></category></entry><entry><title>2018 Fall 分組網誌-w2</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623152/blog/2018-Fall-Project-Blog-w2.html</id><summary type="html">&lt;p&gt;第二週.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;第二週.&lt;/p&gt;
 
-
-&lt;p&gt;學會管理作業倉儲&lt;/p&gt;
+&lt;h2&gt;學會管理作業倉儲&lt;/h2&gt;
 &lt;p&gt;利用 git checkout 內的 master 分支切換到 gh-pages&lt;/p&gt;
 &lt;p&gt;以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版. &lt;/p&gt;
 &lt;p&gt;issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中&lt;/p&gt;
-&lt;p&gt;第二週練習影片:&lt;/p&gt;
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=r8ob820CIFk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=185s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=e5i9Hme6anU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=IlC2f40LPG0&amp;t=1s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=bpHDvYoULqo&amp;t=398s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;h2&gt;上課內容:&lt;/h2&gt;
+&lt;p&gt;Onshape 課程使用說明與英英字典的使用&lt;/p&gt;
+&lt;p&gt;解決Cmsimfly 的錯誤&lt;/p&gt;
+&lt;h2&gt;第二週練習影片:&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=r8ob820CIFk&amp;amp;t=10s"&gt;homework video1&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;amp;t=202s"&gt;homework video2&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=e5i9Hme6anU&amp;amp;t=8s"&gt;homework video3&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=IlC2f40LPG0&amp;amp;t=8s"&gt;homework video4&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=bpHDvYoULqo&amp;amp;t=480s"&gt;homework video5&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;自評心得: 75分&lt;/p&gt;
 &lt;p&gt;每週心得:&lt;/p&gt;</content><category term="2018Fall-w2"></category></entry><entry><title>2018 Fall 分組網誌-w1</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623152/blog/2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;建立github主頁&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立github主頁&lt;/p&gt;
@@ -45,8 +48,8 @@
 &lt;p&gt;說明如何利用P37 中的GIT建立個人Github Pages 網站&lt;/p&gt;
 &lt;p&gt;利用 https://classroom.github.com/a/fGqXU9kO 領取個人其中作業網誌&lt;/p&gt;
 &lt;p&gt;第一週練習影片:
-&lt;iframe width="945" height="507" src="https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=56s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;自評心得: 75分&lt;/p&gt;
+&lt;a href="https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;amp;t=188s"&gt;homework video&lt;/a&gt;
+自評心得: 75分&lt;/p&gt;
 &lt;p&gt;每週心得:&lt;/p&gt;</content><category term="2018Fall-w1"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-07-18:/site-40623152/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
