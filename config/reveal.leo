@@ -24,11 +24,11 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181004145022.1"><vh>W1</vh>
-<v t="leo.20181004145650.1"><vh>分支(向下)</vh>
+<v t="leo.20181004145022.1" a="E"><vh>W1</vh>
+<v t="leo.20181004145650.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004150922.1"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181004150028.1"><vh>分支(向下)</vh>
+<v t="leo.20181004150028.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004151003.1"><vh>影片</vh></v>
 </v>
 </v>
@@ -46,6 +46,22 @@
 </v>
 <v t="leo.20181019110735.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181019110752.1"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181027230644.1"><vh>w4</vh>
+<v t="leo.20181027230644.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181027230644.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181027230644.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181027230644.5"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181029231815.1" a="E"><vh>w5</vh>
+<v t="leo.20181029231815.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181029231815.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181029231815.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181029231815.5"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -271,7 +287,10 @@ Created by 40623152 潘季宏
 
 [Week 1 Homework](https://youtu.be/DRXPYEtOqZ0)
 </t>
-<t tx="leo.20181004223113.1"></t>
+<t tx="leo.20181004223113.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
 <t tx="leo.20181004223121.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -307,7 +326,10 @@ Created by 40623152 潘季宏
 * [Week 2 Homework-5](https://www.youtube.com/watch?v=bpHDvYoULqo)
 
 </t>
-<t tx="leo.20181019110709.1"></t>
+<t tx="leo.20181019110709.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
 <t tx="leo.20181019110712.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -324,9 +346,76 @@ Created by 40623152 潘季宏
 </t>
 <t tx="leo.20181019110749.1">#第三週課程內容
 
-* Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。</t>
+* Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。
+
+</t>
 <t tx="leo.20181019110752.1">* w3 練習影片
 
-[homework video](https://www.youtube.com/watch?v=N5ysDAhmSI0)</t>
+[homework video](https://www.youtube.com/watch?v=N5ysDAhmSI0)
+
+</t>
+<t tx="leo.20181027230644.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181027230644.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181027230644.3">#第四週課程內容
+
+* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
+* 解決Cmsimfly 的錯誤
+* 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
+</t>
+<t tx="leo.20181027230644.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181027230644.5">* w4 練習影片
+
+</t>
+<t tx="leo.20181029231815.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181029231815.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029231815.3">#第五週課程內容
+
+* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
+* 解決Cmsimfly 的錯誤
+* 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
+</t>
+<t tx="leo.20181029231815.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181029231815.5">* 第五週練習影片
+
+[homework video1](https://www.youtube.com/watch?v=Pe7y5uNNrBk)
+
+[homework video2](https://www.youtube.com/watch?v=A0N7BqhPgbg)
+
+[homework video3](https://www.youtube.com/watch?v=RMtL315ZwOE)
+
+[homework video4](https://www.youtube.com/watch?v=86sYLL5z5Rc)
+
+
+</t>
 </tnodes>
 </leo_file>
