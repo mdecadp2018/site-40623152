@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系MDE 40623152 潘季宏 - Misc</title><link href="https://mdecadp2018.github.io/site-40623152/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623152/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623152/blog/</id><updated>2018-10-26T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌-w7</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623152/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系MDE 40623152 潘季宏 - Misc</title><link href="https://mdecadp2018.github.io/site-40623152/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623152/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623152/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌-w8</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w8.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623152/blog/2018-Fall-Project-Blog-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;hr&gt;</content><category term="2018Fall-w7"></category></entry><entry><title>2018 Fall 分組網誌-w6</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623152/blog/2018-Fall-Project-Blog-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;hr&gt;</content><category term="2018Fall-w8"></category></entry><entry><title>2018 Fall 分組網誌-w7</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623152/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;hr&gt;</content><category term="2018Fall-w6"></category></entry><entry><title>2018 Fall 分組網誌-w5</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623152/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;hr&gt;
+&lt;p&gt;上課內容:&lt;/p&gt;
+&lt;p&gt;github遠端故障&lt;/p&gt;
+&lt;p&gt;原因: 具體來講是因為網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端扔有更動.&lt;/p&gt;
+&lt;p&gt;解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法&lt;/p&gt;
+&lt;p&gt;例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結.&lt;/p&gt;
+&lt;p&gt;連結如下:&lt;/p&gt;
+&lt;p&gt;https://about.gitlab.com/pricing/&lt;/p&gt;
+&lt;p&gt;https://bitbucket.org/product/pricing&lt;/p&gt;</content><category term="2018Fall-w7"></category></entry><entry><title>2018 Fall 分組網誌-w6</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w6.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623152/blog/2018-Fall-Project-Blog-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;hr&gt;
+&lt;p&gt;上課內容:
+1. 檢查每周是否更新自己的網誌 網站 投影片&lt;/p&gt;
+&lt;p&gt;2.倉儲要定時更新&lt;/p&gt;
+&lt;p&gt;3安排人事時地物等關鍵內容&lt;/p&gt;
+&lt;p&gt;4如何更新CMSimfly&lt;/p&gt;
+&lt;p&gt;3利用lab-booking-cdlab說明管理內容流程&lt;/p&gt;
+&lt;p&gt;心得:
+這周學習如何升級最新的flaskapp.py，利用這建立有關5W等地關鍵架構，這樣就可以在下學期的協同更為人性化。&lt;/p&gt;
+&lt;p&gt;Design Intent is the practice of developing your project’s objectives and requirements even before working on your design.&lt;/p&gt;
+&lt;p&gt;The more complex the geometry, the more we need to think about how we want to design the parts before just going ahead and making it.&lt;/p&gt;</content><category term="2018Fall-w6"></category></entry><entry><title>2018 Fall 分組網誌-w5</title><link href="https://mdecadp2018.github.io/site-40623152/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623152</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623152/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;hr&gt;
 &lt;p&gt;上課內容:&lt;/p&gt;

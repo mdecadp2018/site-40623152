@@ -56,12 +56,44 @@
 <v t="leo.20181027230644.5"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20181029231815.1" a="E"><vh>w5</vh>
+<v t="leo.20181029231815.1"><vh>w5</vh>
 <v t="leo.20181029231815.2" a="E"><vh>分支(向下</vh>
 <v t="leo.20181029231815.3"><vh>大綱</vh></v>
 </v>
 <v t="leo.20181029231815.4" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181029231815.5"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181101222035.1" a="E"><vh>w6</vh>
+<v t="leo.20181101222035.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181101222035.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181101222035.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181101222035.5"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181101222036.1" a="E"><vh>w7</vh>
+<v t="leo.20181101222036.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181101222036.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181101222036.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181101222036.5"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181101222039.1" a="E"><vh>w8</vh>
+<v t="leo.20181101222039.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181101222039.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181101222039.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181101222039.5"><vh>影片</vh></v>
+</v>
+</v>
+<v t="leo.20181101222053.1" a="E"><vh>w9</vh>
+<v t="leo.20181101222053.2" a="E"><vh>分支(向下</vh>
+<v t="leo.20181101222053.3"><vh>大綱</vh></v>
+</v>
+<v t="leo.20181101222053.4" a="E"><vh>分支(向下)</vh>
+<v t="leo.20181101222053.5"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -416,6 +448,114 @@ Created by 40623152 潘季宏
 [homework video4](https://www.youtube.com/watch?v=86sYLL5z5Rc)
 
 
+</t>
+<t tx="leo.20181101222035.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181101222035.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222035.3"># 第六周上課內容:
+
+*  檢查每周是否更新自己的網誌 網站 投影片
+
+* 倉儲要定時更新
+
+* 安排人事時地物等關鍵內容
+
+* 如何更新CMSimfly
+
+* 利用lab-booking-cdlab說明管理內容流程</t>
+<t tx="leo.20181101222035.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222035.5"></t>
+<t tx="leo.20181101222036.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181101222036.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222036.3">#上課內容:
+
+* github遠端故障
+
+* 原因: 具體來講是因為網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端扔有更動.
+
+* 解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法
+
+* 例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結.
+
+連結如下:
+
+[Website 1](https://about.gitlab.com/pricing/)
+
+[Website 2](https://bitbucket.org/product/pricing)
+</t>
+<t tx="leo.20181101222036.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222036.5"></t>
+<t tx="leo.20181101222039.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181101222039.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222039.3"></t>
+<t tx="leo.20181101222039.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222039.5">
+
+</t>
+<t tx="leo.20181101222053.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20181101222053.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222053.3"></t>
+<t tx="leo.20181101222053.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181101222053.5">
 </t>
 </tnodes>
 </leo_file>
