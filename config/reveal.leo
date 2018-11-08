@@ -68,24 +68,15 @@
 <v t="leo.20181101222035.2" a="E"><vh>分支(向下</vh>
 <v t="leo.20181101222035.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181101222035.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181101222035.5"><vh>影片</vh></v>
-</v>
 </v>
 <v t="leo.20181101222036.1" a="E"><vh>w7</vh>
 <v t="leo.20181101222036.2" a="E"><vh>分支(向下</vh>
 <v t="leo.20181101222036.3"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181101222036.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181101222036.5"><vh>影片</vh></v>
-</v>
 </v>
 <v t="leo.20181101222039.1" a="E"><vh>w8</vh>
 <v t="leo.20181101222039.2" a="E"><vh>分支(向下</vh>
 <v t="leo.20181101222039.3"><vh>大綱</vh></v>
-</v>
-<v t="leo.20181101222039.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181101222039.5"><vh>影片</vh></v>
 </v>
 </v>
 </v>
@@ -465,14 +456,6 @@ Created by 40623152 潘季宏
 * 利用lab-booking-cdlab說明管理內容流程
 
 </t>
-<t tx="leo.20181101222035.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181101222035.5"></t>
 <t tx="leo.20181101222036.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -485,7 +468,6 @@ Created by 40623152 潘季宏
 
 </t>
 <t tx="leo.20181101222036.3">## 第7週上課內容:
-
 * github遠端故障
 
 * 原因: 具體來講是因為網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端扔有更動.
@@ -493,21 +475,10 @@ Created by 40623152 潘季宏
 * 解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法
 
 * 例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結.
-
 連結如下:
-
 [Website 1](https://about.gitlab.com/pricing/)
-
 [Website 2](https://bitbucket.org/product/pricing)
 </t>
-<t tx="leo.20181101222036.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181101222036.5"></t>
 <t tx="leo.20181101222039.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -520,16 +491,13 @@ Created by 40623152 潘季宏
 
 </t>
 <t tx="leo.20181101222039.3">## 第8週上課內容:
-</t>
-<t tx="leo.20181101222039.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
 
-</t>
-<t tx="leo.20181101222039.5">
+* 何謂雲端??
+→→→→→→ [雲端](https://en.wikipedia.org/wiki/Cloud_computing)
 
+* 將期中考前的課程內容整理好 Onshape練習好
+
+* 準備期中後專題的分組及專題製作
 </t>
 </tnodes>
 </leo_file>
