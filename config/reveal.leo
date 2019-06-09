@@ -24,59 +24,14 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181004145022.1" a="E"><vh>W1</vh>
+<v t="leo.20181004145022.1" a="E"><vh>大綱</vh>
 <v t="leo.20181004145650.1" a="E"><vh>分支(向下)</vh>
 <v t="leo.20181004150922.1"><vh>大綱</vh></v>
 </v>
-<v t="leo.20181004150028.1" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181004151003.1"><vh>影片</vh></v>
 </v>
-</v>
-<v t="leo.20181004223113.1" a="E"><vh>W2</vh>
-<v t="leo.20181004223121.1" a="E"><vh>分支(向下</vh>
-<v t="leo.20181004223140.1"><vh>大綱</vh></v>
-</v>
-<v t="leo.20181019101801.1" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181019101812.1"><vh>影片</vh></v>
-</v>
-</v>
-<v t="leo.20181019110709.1" a="E"><vh>w3</vh>
-<v t="leo.20181019110712.1" a="E"><vh>分支(向下</vh>
-<v t="leo.20181019110749.1"><vh>大綱</vh></v>
-</v>
-<v t="leo.20181019110735.1" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181019110752.1"><vh>影片</vh></v>
-</v>
-</v>
-<v t="leo.20181027230644.1" a="E"><vh>w4</vh>
-<v t="leo.20181027230644.2" a="E"><vh>分支(向下</vh>
-<v t="leo.20181027230644.3"><vh>大綱</vh></v>
-</v>
-<v t="leo.20181027230644.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181027230644.5"><vh>影片</vh></v>
-</v>
-</v>
-<v t="leo.20181029231815.1" a="E"><vh>w5</vh>
-<v t="leo.20181029231815.2" a="E"><vh>分支(向下</vh>
-<v t="leo.20181029231815.3"><vh>大綱</vh></v>
-</v>
-<v t="leo.20181029231815.4" a="E"><vh>分支(向下)</vh>
-<v t="leo.20181029231815.5"><vh>影片</vh></v>
-</v>
-</v>
-<v t="leo.20181101222035.1" a="E"><vh>w6</vh>
-<v t="leo.20181101222035.2" a="E"><vh>分支(向下</vh>
-<v t="leo.20181101222035.3"><vh>大綱</vh></v>
-</v>
-</v>
-<v t="leo.20181101222036.1" a="E"><vh>w7</vh>
-<v t="leo.20181101222036.2" a="E"><vh>分支(向下</vh>
-<v t="leo.20181101222036.3"><vh>大綱</vh></v>
-</v>
-</v>
-<v t="leo.20181101222039.1" a="E"><vh>w8</vh>
-<v t="leo.20181101222039.2" a="E"><vh>分支(向下</vh>
-<v t="leo.20181101222039.3"><vh>大綱</vh></v>
+<v t="leo.20190609220932.1" a="E"><vh>onshape</vh>
+<v t="leo.20190609220932.2" a="E"><vh>分支(向下)</vh>
+<v t="leo.20190609220932.3"><vh>大綱</vh></v>
 </v>
 </v>
 </v>
@@ -165,14 +120,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">### 虎科大機械設計工程系MDE
+<t tx="leo.20180827201621.10">### 2019 SPRING 投影片
+##虎科大機械設計工程系
+#協同產品設計實習期末投影片
 
 &lt;small&gt;
 Created by 40623152 潘季宏
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
-
+&lt;a href="https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g4/content/index.html"&gt;小組網站&lt;/a&gt;
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -282,222 +238,29 @@ Created by 40623152 潘季宏
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181004150028.1">&lt;section data-markdown&gt;
+<t tx="leo.20181004150922.1">## 大綱
+
+* onshape
+* 零組件尺寸分析
+* vrep簡化
+* 倉儲推送紀錄
+* 在小組與班上的貢獻
+* 自評</t>
+<t tx="leo.20190609220932.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20190609220932.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181004150922.1">## 第一週 
+<t tx="leo.20190609220932.3">## onshape
 
-* 每週記得要帶耳機 筆記本 隨身碟  
-
-* 登入 Github 帳號後, 連結至 https://classroom.github.com/a/fGqXU9kO 以領取個人的期中作業, 此倉儲內容取自: 2018fall, 示範網站, 各學員期中成績以每週放入此個人網站之操作影片
-
-* CMSimfly、reveal 簡報、pelican 網誌與倉儲歷程記錄作為自評依據.
-
-</t>
-<t tx="leo.20181004151003.1">* w1 練習影片
-
-[Week 1 Homework](https://youtu.be/DRXPYEtOqZ0)
-</t>
-<t tx="leo.20181004223113.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181004223121.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181004223140.1">## 第二週
-
-* 學會管理作業倉儲
-* 利用 git checkout 內的 master 分支切換到 gh-pages
-* 以 python wsgi.py 啟動 CMSimfly 動態網站, 以內定的 admin 管理者密碼在近端進行改版. 
-* issue 上有onshape 作業在W9 前繪製完成並錄製 並將過程資料存入 CMSimfly, Reveal.js 與 Pelican Blog 中
-
-</t>
-<t tx="leo.20181019101801.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181019101812.1">* w2 練習影片
-
-* [Week 2 Homework-1](https://www.youtube.com/watch?v=DRXPYEtOqZ0&amp;t=48s)
-
-* [Week 2 Homework-2](https://www.youtube.com/watch?v=e5i9Hme6anU&amp;t=2s)
-
-* [Week 2 Homework-3](https://www.youtube.com/watch?v=zfsBI3-8Awc&amp;t=181s)
-
-* [Week 2 Homework-4](https://www.youtube.com/watch?v=IlC2f40LPG0)
-
-* [Week 2 Homework-5](https://www.youtube.com/watch?v=bpHDvYoULqo)
-
-</t>
-<t tx="leo.20181019110709.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181019110712.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181019110735.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181019110749.1">## 第三週課程內容
-
-* Onshape 與一般的繪圖軟體很像 ，能夠在雲端上傳遞給其他人看，並可以在上面繪圖，當沒有繪圖軟體像是Inventor Solidworks 可以使用 ，也可以觀看別人的圖檔。
-
-</t>
-<t tx="leo.20181019110752.1">* w3 練習影片
-
-[homework video](https://www.youtube.com/watch?v=N5ysDAhmSI0)
-
-</t>
-<t tx="leo.20181027230644.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181027230644.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181027230644.3">## 第四週課程內容
-
-* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
-* 解決Cmsimfly 的錯誤
-* 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
-</t>
-<t tx="leo.20181027230644.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181027230644.5">* w4 練習影片
-
-</t>
-<t tx="leo.20181029231815.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181029231815.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181029231815.3">## 第五週課程內容
-
-* Onshape 課程使用說明及利用手邊的英譯字典來查詢部會的單字並記錄在Notebook上
-* 解決Cmsimfly 的錯誤
-* 維護網誌必須切記 pelican.leo 內建立每周內容必須注意 slug 的名稱不得與其他周的 slug 一樣,否則系統無法得知是要使用哪個 slug 的內容
-</t>
-<t tx="leo.20181029231815.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181029231815.5">* 第五週練習影片
-
-[homework video1](https://www.youtube.com/watch?v=Pe7y5uNNrBk)
-
-[homework video2](https://www.youtube.com/watch?v=A0N7BqhPgbg)
-
-[homework video3](https://www.youtube.com/watch?v=RMtL315ZwOE)
-
-[homework video4](https://www.youtube.com/watch?v=86sYLL5z5Rc)
-
-
-</t>
-<t tx="leo.20181101222035.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181101222035.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181101222035.3">## 第六周上課內容:
-
-*  檢查每周是否更新自己的網誌 網站 投影片
-
-* 倉儲要定時更新
-
-* 安排人事時地物等關鍵內容
-
-* 如何更新CMSimfly
-
-* 利用lab-booking-cdlab說明管理內容流程
-
-</t>
-<t tx="leo.20181101222036.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181101222036.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181101222036.3">## 第7週上課內容:
-* github遠端故障
-
-* 原因: 具體來講是因為網路故障且儲存的倉儲位置也連帶故障,導致多數人進行遠端傳送,有些許的障礙出現,但近端扔有更動.
-
-* 解決: 因為避免相同的衝突再次發生,所以有了因應的措施,必須先想出可應對的方法
-
-* 例如: 可以使用gitlab , bitbucket , fossil scm 這些額外可作為github遠端以外的連結.
-連結如下:
-[Website 1](https://about.gitlab.com/pricing/)
-[Website 2](https://bitbucket.org/product/pricing)
-</t>
-<t tx="leo.20181101222039.1">&lt;section&gt;
-@others
-&lt;/section&gt;
-</t>
-<t tx="leo.20181101222039.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181101222039.3">## 第8週上課內容:
-
-* 何謂雲端??
-→→→→→→ [雲端](https://en.wikipedia.org/wiki/Cloud_computing)
-
-* 將期中考前的課程內容整理好 Onshape練習好
-
-* 準備期中後專題的分組及專題製作
 </t>
 </tnodes>
 </leo_file>
